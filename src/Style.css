@@ -1,0 +1,52 @@
+.body{
+    margin: 0 auto;
+}
+.head{
+    height: 40px;
+    width: auto;
+    background-color: rgb(226, 94, 12);
+    padding: 30px 30px;
+    text-align: center;
+    font-size: larger;
+    font-weight: 600;
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Content{
+    height: 200px;
+    display: flex;
+    width: auto;
+    margin: 0 auto;
+    max-width: 500px;
+}
+.imagess{
+    margin-top: 30px;
+    margin-left: 30px;
+    height: 150px;
+    width:  120px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.body--main{
+    margin-top: 30px;
+    margin-left: 20px;
+    max-width: 300px;
+}
+.location{
+    margin-top: 5px;
+    font-size: small;
+}
+.location > img{
+    height: 10px;
+}
+.body--main > h3{
+    margin-top: 0px;
+}
+.date{
+    margin-bottom: 0px;
+    font-size: small;
+}
+.descr{
+    font-size: 12px;
+    text-align: justify;
+}
