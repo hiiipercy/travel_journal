@@ -5,7 +5,7 @@ export default [
         startDate: "12 Jan, 2021",
         endDate: "24 Jan, 2021",
         description: "As one of the most iconic places to visit in Australia, Sydney Harbour never fails to impress. Home to the Sydney Opera House and the Sydney Harbour Bridge, this vibrant hub is a living postcard of the city.",
-        imageUrl: "../image/Sydney-harbour.jpg"
+        imageUrl: "../image/Sydney-Harbour.jpg"
     },
     {
         title: "Toronto",
